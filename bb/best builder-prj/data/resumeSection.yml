@@ -1,0 +1,42 @@
+# In the Name of God, the Originator the Creative
+# TODO: use semantic names for data fields
+---
+enable: true
+topTitle: Our Specializations
+title: >
+  ## Quality Ensured
+
+  At BestBuilders, we pride ourselves on providing top-tier construction services tailored to meet the unique needs of each client.
+
+
+  From innovative civil engineering and comprehensive real estate solutions to effective project promotion and stunning elevation work, our skilled team ensures excellence in every endeavor
+#tab1Name: Company
+#tab2Name: Product
+#tab1Target: education
+#tab2Target: experience
+
+education:
+  - content: >
+      #### Experience and Expertise
+
+      With years of experience in the construction industry, BestBuilders brings unparalleled expertise to every project, ensuring superior outcomes.
+    image: /images/certificates/experience.png
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### Commitment to Quality
+
+      We prioritize quality in every aspect of our work, from materials to craftsmanship, ensuring that our projects stand the test of time.
+    image: /images/certificates/qualityy.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### Transparency and Integrity
+
+      BestBuilders values transparency and integrity, maintaining open communication and honest practices throughout the construction process.
+    image: /images/certificates/integrity.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### Customized Solutions
+
+      We offer customized solutions tailored to meet the unique needs of each client, ensuring that every project aligns with their vision and requirements.
+    image: /images/certificates/sol3.png
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ

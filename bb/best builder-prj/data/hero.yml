@@ -1,0 +1,12 @@
+enable: true
+topTitle:
+content: >
+  # Best Builders
+
+  BestBuilders specializes in civil construction, real estate, and promotion services, delivering excellence with experienced labor and a commitment to quality!
+buttonName: Contact Us
+buttonURL: contact
+image: images/hero/front_home.jpeg
+videoThumb: images/hero/pistachios.jpg
+#videoURL: "https://youtu.be/1-NOOoqlvfA"
+_template: hero_template

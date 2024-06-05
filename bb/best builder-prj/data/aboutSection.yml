@@ -1,0 +1,17 @@
+enable: true
+topTitle: About
+title: >
+  ## Our Story
+
+  Discover the journey of BestBuilders
+content: >
+  ### We are your trusted construction partner
+
+  Since our founding in 2014, BestBuilders has accumulated over 10 years of experience in delivering exceptional construction services. We specialize in civil construction, real estate, project promotion, and elevation work. Our unwavering commitment to quality and integrity has built a loyal client base that trusts us to deliver excellence in every project. Partner with BestBuilders and experience the superior craftsmanship and reliability that set us apart.
+
+button1Name: Contact Us
+button2Name: Our Projects
+button1Target: contact
+button2Target: product
+image: images/about/abt-house2.png
+_template: about_template

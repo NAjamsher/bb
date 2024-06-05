@@ -1,0 +1,28 @@
+enable: true
+topTitle: Services
+title: >
+  ## Our Services
+
+  BestBuilders offers a range of expert services including civil construction, real estate, promotion, and elevation work..
+service:
+  - content: >
+      #### Civil Construction 
+
+       We provide comprehensive civil construction services with a commitment to quality and excellence, using experienced labor and advanced techniques.
+    image: images/service/civil_service1.jpg
+  - content: >
+      #### Real Estate
+
+      Our real estate services include buying, selling, and managing properties, ensuring a seamless and efficient experience for our clients.
+    image: images/service/real_estate.jpg
+  - content: >
+      #### Elevation Work 
+
+      We specialize in elevation work, enhancing the aesthetic appeal and functionality of your buildings with innovative designs and quality craftsmanship.
+    image: images/service/elavation.png
+  - content: >
+      #### Promotion Services
+
+       BestBuilders excels in promoting projects, helping you achieve maximum visibility and success for your ventures.
+    image: images/service/promotors1.png
+_template: service_template
