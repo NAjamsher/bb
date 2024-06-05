@@ -9,7 +9,7 @@ postImage: images/allpost/ContemporaryVillas.jpg
 
 ## Description
 
-- Characterized by sleek, modern architecture and clean lines.
+- Characterized by sleek and modern architecture and clean lines.
 - Incorporates open floor plans with large windows for natural light.
 - Uses modern materials like glass, steel, and concrete.
 - Emphasizes minimalism with a focus on form and function.
