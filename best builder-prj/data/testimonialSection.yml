@@ -1,0 +1,16 @@
+enable: true
+topTitle:
+title: |
+  ## Price for our service
+testimonial:
+  - name: Basic Plan
+    comment: >-
+      1700/- per square foot
+    #time: "Jan 20, 2020"
+    star: 4
+  - name: Premeium Plan
+    comment: >-
+      2000/- per square foot
+    #time: "Jan 16, 2020"
+    star: 5
+_template: testimonial_template

@@ -1,0 +1,10 @@
+enable: true
+topTitle:
+title: >
+  ## Types of Villas
+
+  Discover our diverse range of villas, each offering unique features and luxurious living. Find the perfect villa to match your lifestyle and preferences.
+
+buttonName: See All
+buttonTarget: blog
+_template: blog_section_template

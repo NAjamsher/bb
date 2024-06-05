@@ -1,0 +1,6 @@
+enable: true
+topTitle:
+title: |
+  ## Our Recent Projects
+  Explore our portfolio of completed projects showcasing our expertise and commitment to excellence.
+_template: product_section_template

@@ -1,0 +1,35 @@
+main:
+  - name: Home
+    url: ""
+    weight: 1
+  - name: Services
+    url: "#service"
+    weight: 2
+  - name: Specializations
+    url: "#resume"
+    weight: 3
+  - name: About
+    url: "#about"
+    weight: 4
+  - name: Projects
+    url: "#product"
+    weight: 5
+  - name: price
+    url: "#testimonial"
+    weight: 6
+  - name: Types of Villas
+    url: "#blog"
+    weight: 7
+sitemap:
+  - name: Home
+    url: ""
+    weight: 1
+  - name: Contact Us
+    url: "contact"
+    weight: 2
+  - name: Projects
+    url: "product"
+    weight: 3
+  - name: Types of Villas
+    url: "blog"
+    weight: 4
